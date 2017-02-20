@@ -1,0 +1,13 @@
+# editorconfig.org
+#用于统一代码工具解决方案，在不同编辑器统一代码风格，告诉编译器缩进
+root=true
+
+[*]
+charset = utf-8
+indent_size=4
+indent_style = space
+insert_final_newline=true
+trim_trailing_whitespace=true
+
+[*.md]
+trim_trailing_whitespace=false
