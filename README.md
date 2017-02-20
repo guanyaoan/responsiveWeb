@@ -20,5 +20,3 @@
 1. 全局安装：npm install -g browser-sync
 2. 先进入项目目录
 3. 启动 BrowserSync browser-sync start --server src --files src
-
-
